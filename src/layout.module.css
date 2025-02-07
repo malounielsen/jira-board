@@ -1,0 +1,22 @@
+.header {
+    color: whitesmoke; 
+}
+
+.menubar {
+    display: flex;
+    flex-direction: column;
+    background-color: #2d2d2d;
+    color: rgb(226, 226, 226); 
+    flex-wrap: nowrap;
+    width: 250px;
+    height: 100vh; 
+
+    
+
+}
+
+.body {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+}

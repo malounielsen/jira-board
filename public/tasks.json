@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "title": "Köp mjölk",
+    "description": "Gå till affären och köp mjölk.",
+    "completed": false,
+    "deadline": "2024-12-15T18:00:00Z",
+    "columns": 2
+  },
+  {
+    "id": 2,
+    "title": "Träna på gymmet",
+    "description": "Följ träningsplanen för veckan.",
+    "completed": false,
+    "deadline": "2024-12-16T07:00:00Z",
+    "columns": 1
+  },
+  {
+    "id": 3,
+    "title": "Arbeta på projektet och samtidigt gå till affären och för saker",
+    "description": "Slutför uppgifterna för projektet.",
+    "completed": true,
+    "deadline": "2024-12-14T12:00:00Z",
+    "columns": 3
+  },
+  {
+    "id": 4,
+    "title": "Laga middag",
+    "description": "Förbered en middag till familjen.",
+    "completed": false,
+    "deadline": "2024-12-13T19:00:00Z",
+    "columns": 1
+  }
+]
